@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![InvestGrow Logo](https://via.placeholder.com/200x100?text=InvestGrow)
+
 
 **Grow your wealth with smart investments and multi-level referrals**
 
